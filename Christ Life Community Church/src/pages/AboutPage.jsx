@@ -70,10 +70,10 @@ const AboutPage = () => {
           >
             <h2 className="text-4xl font-bold text-white mb-6 font-playfair">Our Story</h2>
             <p className="text-white/80 leading-relaxed mb-4">
-              Christ Life community church was founded in 2010 by Edwin Anthony Paul and a small group of believers who shared a vision for a church that would be a beacon of hope in the community. What started as a gathering of 20 people in a living room has grown into a vibrant community of over 2,000 members.
+              Christ Life community church was founded in 2023 in Canada by Edwin Anthony Paul and a small group of believers who shared a vision for a church that would be a beacon of hope in the community. What started as a gathering of 20 people in a living room has grown into a vibrant and welcoming community.
             </p>
             <p className="text-white/80 leading-relaxed mb-4">
-              Throughout our history, we've remained committed to our core values of worship, community, and service. We believe that the church should be a place where people can encounter God's love, build meaningful relationships, and discover their purpose.
+              From the beginning, we've remained committed to our core values of worship, community, and service. We believe that the church should be a place where people can encounter God's love, build meaningful relationships, and discover their purpose.
             </p>
             <p className="text-white/80 leading-relaxed">
               Today, Christ Life community church continues to grow and evolve, but our mission remains the same: to love God, love people, and make a difference in our world.

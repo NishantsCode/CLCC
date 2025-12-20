@@ -40,7 +40,7 @@ const About = () => {
               History & Vision
             </h2>
             <p className="text-sm sm:text-base text-white/80 mb-4 leading-relaxed">
-              Christ Life community church was founded in 1985 with a vision to create a welcoming community where people can encounter God's love and grow in their faith. For over three decades, we've been a beacon of hope in our community.
+              Christ Life community church was founded in 2023 in Canada with a vision to create a welcoming community where people can encounter God's love and grow in their faith. Since our founding, we've been a beacon of hope in our community.
             </p>
             <p className="text-sm sm:text-base text-white/80 mb-4 leading-relaxed">
               Our mission is to worship God, build authentic relationships, and serve our community with the love of Christ. We believe in creating a space where everyone belongs, regardless of where they are in their spiritual journey.
