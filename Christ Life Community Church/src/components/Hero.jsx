@@ -1,5 +1,5 @@
 import { motion } from 'framer-motion';
-import { FaPlay } from 'react-icons/fa';
+import { FaPlay, FaYoutube } from 'react-icons/fa';
 import { Link } from 'react-router-dom';
 
 const Hero = () => {
@@ -56,6 +56,14 @@ const Hero = () => {
           >
             <FaPlay /> Watch Live
           </Link>
+          <a
+            href="https://youtube.com/@jesuschristofcorporates3481?si=1gw6poHDgrz67ZK8"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="px-8 py-4 glass text-white rounded-full font-semibold hover:scale-105 transition-transform duration-300 flex items-center justify-center gap-2 border border-gold/30"
+          >
+            <FaYoutube className="text-xl text-red-500" /> YouTube Channel
+          </a>
           <Link
             to="/events"
             className="px-8 py-4 glass text-white rounded-full font-semibold hover:scale-105 transition-transform duration-300"
