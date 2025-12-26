@@ -48,7 +48,7 @@ const Navbar = () => {
           <Link to="/" className="flex items-center space-x-2">
             <FaCross className="text-gold text-2xl sm:text-3xl" />
             <span className="text-white text-base sm:text-xl md:text-2xl font-bold font-playfair">
-              <span className="hidden sm:inline">Christ Life community church</span>
+              <span className="hidden sm:inline">Christ Life Community Church</span>
               <span className="sm:hidden">CLCC</span>
             </span>
           </Link>

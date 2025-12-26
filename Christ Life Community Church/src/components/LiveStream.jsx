@@ -118,7 +118,7 @@ const LiveStream = () => {
           className="text-center mt-8"
         >
           <p className="text-white/60 text-sm">
-            Can't make it in person? Watch our services live every Sunday
+            Services live every Sunday at 07:30 AM MST (During daylight saving)
           </p>
         </motion.div>
       </div>

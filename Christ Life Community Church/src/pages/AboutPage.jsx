@@ -53,9 +53,9 @@ const AboutPage = () => {
             initial={{ opacity: 0, y: 30 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ delay: 0.2 }}
-            className="text-xl text-white/90"
+            className="text-xl text-white/90 max-w-2xl mx-auto"
           >
-            Our Story, Mission & Values
+            Serving the Christian Community Across Canada
           </motion.p>
         </div>
       </div>
@@ -70,13 +70,13 @@ const AboutPage = () => {
           >
             <h2 className="text-4xl font-bold text-white mb-6 font-playfair">Our Story</h2>
             <p className="text-white/80 leading-relaxed mb-4">
-              Christ Life community church was founded in 2023 in Canada by Edwin Anthony Paul and a small group of believers who shared a vision for a church that would be a beacon of hope in the community. What started as a gathering of 20 people in a living room has grown into a vibrant and welcoming community.
+              Christ Life Community Church was founded in 2023 in Canada by Edwin Anthony Paul and a small group of believers who shared a vision for a church that would be a beacon of hope in the community. What started as a gathering of 20 people in a living room has grown into a vibrant online Christian community serving believers across Canada.
             </p>
             <p className="text-white/80 leading-relaxed mb-4">
-              From the beginning, we've remained committed to our core values of worship, community, and service. We believe that the church should be a place where people can encounter God's love, build meaningful relationships, and discover their purpose.
+              From the beginning, we've remained committed to our core values of worship, community, and service. We believe that the church should be a place where people can encounter God's love, build meaningful relationships, and discover their purpose. Through our online services, we connect with Canadians from coast to coast, bringing the message of Christ to homes across the nation.
             </p>
             <p className="text-white/80 leading-relaxed">
-              Today, Christ Life community church continues to grow and evolve, but our mission remains the same: to love God, love people, and make a difference in our world.
+              Today, Christ Life Community Church continues to grow and evolve as a leading online church in Canada, but our mission remains the same: to love God, love people, and make a difference in our world. Join us every Sunday at 7:30 AM MST for worship, fellowship, and spiritual growth.
             </p>
           </motion.div>
         </div>

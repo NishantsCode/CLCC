@@ -81,7 +81,7 @@ const Footer = () => {
         {/* Bottom Bar */}
         <div className="border-t border-white/10 pt-6 sm:pt-8 text-center">
           <p className="text-white/60 text-xs sm:text-sm">
-            © {currentYear} Christ Life community church. All rights reserved. Built with love and faith.
+            © {currentYear} Christ Life Community Church | Canada. All rights reserved. Built with love and faith.
           </p>
         </div>
       </div>

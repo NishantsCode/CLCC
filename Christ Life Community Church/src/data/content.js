@@ -57,36 +57,36 @@ export const galleryImages = [
     id: 1,
     src: 'https://images.unsplash.com/photo-1507692049790-de58290a4334?w=800',
     category: 'Worship',
-    alt: 'Worship service'
+    alt: 'Christ Life Community Church worship service in Canada with congregation praising'
   },
   {
     id: 2,
     src: 'https://images.unsplash.com/photo-1438232992991-995b7058bbb3?w=800',
     category: 'Worship',
-    alt: 'Prayer gathering'
+    alt: 'Prayer gathering at Christ Life Community Church Canada'
   },
   {
     id: 3,
     src: 'https://images.unsplash.com/photo-1511632765486-a01980e01a18?w=800',
     category: 'Youth',
-    alt: 'Youth fellowship'
+    alt: 'Youth fellowship and worship at Canadian Christian church'
   },
   {
     id: 4,
     src: 'https://images.unsplash.com/photo-1501281668745-f7f57925c3b4?w=800',
     category: 'Events',
-    alt: 'Outdoor service'
+    alt: 'Outdoor church service Christ Life Community Church Canada'
   },
   {
     id: 5,
     src: 'https://images.unsplash.com/photo-1519491050282-cf00c82424b4?w=800',
     category: 'Worship',
-    alt: 'Worship team'
+    alt: 'Worship team leading praise at online church service Canada'
   },
   {
     id: 6,
     src: 'https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?w=800',
     category: 'Events',
-    alt: 'Community event'
+    alt: 'Community event at Christ Life Community Church serving Canadians'
   }
 ];
