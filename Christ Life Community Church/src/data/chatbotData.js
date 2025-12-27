@@ -5,14 +5,14 @@ export const churchInfo = {
   phone: '+1 825 733 8785',
   phone2: '+1 (403) 667-7175',
   email: 'christlifecommunitychurchca@gmail.com',
-  website: 'www.gracechurch.com',
+  website: 'clcc.vercel.app',
   
   // Social media
   social: {
-    facebook: 'https://facebook.com/gracechurch',
-    instagram: 'https://instagram.com/gracechurch',
-    youtube: 'https://youtube.com/gracechurch',
-    twitter: 'https://twitter.com/gracechurch'
+    facebook: 'https://facebook.com/gracechurch', // needs to change
+    instagram: 'https://instagram.com/gracechurch',// needs to change
+    youtube: 'https://youtube.com/gracechurch',// needs to change
+    twitter: 'https://twitter.com/gracechurch'// needs to change
   },
   
   // Service times

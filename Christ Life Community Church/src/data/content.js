@@ -1,3 +1,4 @@
+// import image1 from "../assets/brother.jpg" reference for the change of image in even section
 export const events = [
   {
     id: 1,
@@ -5,6 +6,7 @@ export const events = [
     date: 'December 15, 2025',
     time: '6:00 PM',
     image: 'https://images.unsplash.com/photo-1438232992991-995b7058bbb3?w=800',
+    // image: image1, // reference how to change
     description: 'Join us for an evening of prayer and fellowship'
   },
   {
@@ -30,25 +32,25 @@ export const testimonies = [
     id: 1,
     name: 'Sarah Johnson',
     text: 'This church has transformed my life. The community here is so welcoming and the teachings have brought me closer to God.',
-    image: 'https://i.pravatar.cc/150?img=1'
+    // image: 'https://i.pravatar.cc/150?img=1'
   },
   {
     id: 2,
     name: 'Michael Chen',
     text: 'I found my purpose here. The youth ministry helped me discover my calling and I\'ve grown so much spiritually.',
-    image: 'https://i.pravatar.cc/150?img=13'
+    // image: 'https://i.pravatar.cc/150?img=13'
   },
   {
     id: 3,
     name: 'Emily Rodriguez',
     text: 'The worship experience is incredible. Every Sunday I leave feeling refreshed and inspired to live out my faith.',
-    image: 'https://i.pravatar.cc/150?img=5'
+    // image: 'https://i.pravatar.cc/150?img=5'
   },
   {
     id: 4,
     name: 'David Thompson',
     text: 'After years of searching, I finally found a church family. The love and support here is truly Christ-like.',
-    image: 'https://i.pravatar.cc/150?img=12'
+    // image: 'https://i.pravatar.cc/150?img=12'
   }
 ];
 

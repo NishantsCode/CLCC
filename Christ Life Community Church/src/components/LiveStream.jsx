@@ -99,7 +99,7 @@ const LiveStream = () => {
             {/* Link to channel for live streams */}
             <div className="mt-4 text-center">
               <a 
-                href="https://meet.google.com/mea-ojwf-ppc"
+                href="https://meet.google.com/mea-ojwf-ppc" // needs to change
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-2 text-gold hover:text-white transition-colors"
