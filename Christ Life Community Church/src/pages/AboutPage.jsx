@@ -1,8 +1,8 @@
 import { motion } from 'framer-motion';
 import { FaHeart, FaUsers, FaPray, FaHandsHelping } from 'react-icons/fa';
-import edwinImage from '../assets/edwin.jpg';
-import sisterImage from '../assets/sister.jpg';
-import brotherImage from '../assets/brother.jpg';
+import edwinImage from '../assets/image.png'; // needs to chanage
+import sisterImage from '../assets/image.png'; // needs to chanage
+import brotherImage from '../assets/image.png'; // needs to chanage
 import heroImage from '../assets/photo-1438232992991-995b7058bbb3.jpg';
 
 const AboutPage = () => {
@@ -130,8 +130,8 @@ const AboutPage = () => {
             <h3 className="text-xl sm:text-2xl font-bold text-gold mb-8 text-center">Senior Leadership</h3>
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-6 sm:gap-8 max-w-3xl mx-auto">
               {[
-                { name: 'Edwin Anthony Paul', role: 'Senior Pastor', image: edwinImage },
-                { name: 'Sister Beulah Sesham', role: 'Worship Leader & Finance', image: sisterImage }
+                { name: 'Edwin Anthony Paul', role: 'Senior Pastor', image: edwinImage }, // needs to chanage
+                { name: 'Sister Beulah Sesham', role: 'Worship Leader & Finance', image: sisterImage }// needs to chanage
               ].map((leader, index) => (
                 <motion.div
                   key={index}
@@ -141,7 +141,7 @@ const AboutPage = () => {
                   whileHover={{ y: -10 }}
                   className="glass-dark rounded-3xl overflow-hidden"
                 >
-                  <img src={leader.image} alt={leader.name} className="w-full h-80 object-cover" />
+                  <img src={leader.image} alt={leader.name} className="w-full h-80 object-cover" /> 
                   <div className="p-6 text-center">
                     <h3 className="text-xl font-bold text-white mb-2">{leader.name}</h3>
                     <p className="text-gold">{leader.role}</p>
@@ -156,10 +156,10 @@ const AboutPage = () => {
             <h3 className="text-xl sm:text-2xl font-bold text-gold mb-8 text-center">Committee Members</h3>
             <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6 sm:gap-8">
               {[
-                { name: 'Elder Brother Raja', role: 'Church Committee', image: brotherImage },
-                { name: 'Sister Tryphena Paul', role: 'Finance Team', image: sisterImage },
-                { name: 'Master Judah Leonidas Nyman', role: 'Social Media Expert', image: brotherImage },
-                { name: 'Elder Sister Karuna', role: 'India Prayer Leader', image: sisterImage }
+                { name: 'Elder Brother Raja', role: 'Church Committee', image: brotherImage },// needs to chanage
+                { name: 'Sister Tryphena Paul', role: 'Finance Team', image: sisterImage },// needs to chanage
+                { name: 'Master Judah Leonidas Nyman', role: 'Social Media Expert', image: brotherImage },// needs to chanage
+                { name: 'Elder Sister Karuna', role: 'India Prayer Leader', image: sisterImage }// needs to chanage
               ].map((member, index) => (
                 <motion.div
                   key={index}
